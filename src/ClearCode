@@ -1,0 +1,17 @@
+class Clothes {
+    paint - changeColor // покраска одежды, изменение цвета
+    cut - changeSize // ушивка, изменение размера
+    sale - saleDiscount // продажа со скидкой
+    print - drawPicture // нанесение рисунка, логотипа
+}
+
+strGen - randomStringGen // генерация случайной строки
+finalList - getRepeatedValues // получить список повторяющихся значений
+light - getStopTime // получить время остановки
+resetHistory - resetClipboard // сбросить (очистить) буфер обмена
+walkersSearch - detectedWalker // обнаружение ходока
+newTempMas - newTempArray // создать новый временный массив
+trueSort - sortTheArray // произвести сортировку массива
+compareMas - compareArrays // сравнить массивы
+sort1 - swapTwoRandElements // поменять местами 2 случайных элемента
+sort2 - reorderSort // изменить порядок сортировки
